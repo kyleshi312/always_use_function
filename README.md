@@ -6,4 +6,8 @@
 
 ### ts文件夹
 
-#### 防抖（debounce）方法 debounce.ts
+#### 防抖（debounce）方法——debounce.ts
+
+### vue文件夹
+
+#### 下拉菜单，当鼠标划入划出时的效果——mouseOverOut.vue
