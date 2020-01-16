@@ -16,4 +16,8 @@
 
 ## 收集的其他util工具库
 
-ts工具库 [github:IFmiss/d-utils](https://github.com/IFmiss/d-utils) [同步web](https://d-utils.daiwei.site)
+### ts工具库 
+[github:IFmiss/d-utils](https://github.com/IFmiss/d-utils) [同步web](https://d-utils.daiwei.site)
+
+### js工具库
+[evin87/Q.js](https://github.com/devin87/Q.js)
