@@ -13,3 +13,7 @@
 #### 下拉菜单，当鼠标划入划出时的效果——mouseOverOut.vue
 
 #### Functional_components_example 函数组件使用实例
+
+## 收集的其他util工具库
+
+ts工具库 [github:IFmiss/d-utils](https://github.com/IFmiss/d-utils) [同步web](https://d-utils.daiwei.site)
