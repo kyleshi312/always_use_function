@@ -42,4 +42,13 @@ export function getRequest (uri) {
     }
   }
   
-    
+  // 获取字符串长度
+  // var s = '𠮷𠮷';
+
+  // s.length // 4
+  // codePointLength(s) // 2
+  // codePointLength('asd33杜甫') // 7
+  function codePointLength(text) {
+    var result = text.match(/[\s\S]/gu);
+    return result ? result.length : 0;
+  }
